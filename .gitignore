@@ -1,0 +1,16 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore feature analysis folder
+feature_analysis/
+
+# Ignore extracted features folder
+extracted_features/
+
+# Ignore test folder
+test_folder/
+
+# Ignore training checkpoints
+training_checkpoints/
