@@ -14,3 +14,6 @@ test_folder/
 
 # Ignore training checkpoints
 training_checkpoints/
+
+# More to ignore
+witcher3_dataset/
